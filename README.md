@@ -1,4 +1,4 @@
-# Sistema-de-Alertas-e-Notifica-es-Autom-ticas-com-Pyton
+# Sistema-de-Alertas-e-Notificações-Automáticas-com-Python
 Esse é um alerta para enviar uma mensagem para seu  email atravéz do python. 
 
 ![eb7fa045-5f44-48f4-9224-d1fbeba68000](https://user-images.githubusercontent.com/111598752/187737937-d7941cfc-633f-4ce7-a730-98c8d1aa6fad.jpg)
